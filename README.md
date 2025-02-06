@@ -46,12 +46,10 @@ me.about_me()
 
 ---
 
-## 📈 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github.com/hetviipatel/HetviPatel145&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HetviPatel145&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MoxitShah6114&theme=radical&hide_border=true" />-->
-  <img height="180em" src="https://github.com/hetviipatel/HetviPatel145&layout=compact&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HetviPatel145&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 
